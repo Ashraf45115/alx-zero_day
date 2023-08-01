@@ -1,1 +1,1 @@
-My first commit this is me ashraf
+How to be up to date in git
